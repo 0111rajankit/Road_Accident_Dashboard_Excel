@@ -1,4 +1,7 @@
 # Road_Accident_Dashboard_Excel
+![image](https://github.com/0111rajankit/Road_Accident_Dashboard_Excel/assets/134773120/48896cd5-18e2-4bac-97f8-ea0795278669)
+
+
 Hello everybody 
 My third project entailed using Microsoft Excel to create an interactive dashboard that analyzed and summarized data for a road accident, which was just recently finished.
 
